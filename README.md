@@ -1,4 +1,5 @@
 # algorithm-practice
+practice algorithms and stuff :)
 ---
 1. codeup python 100제 기초
 2. 백준
